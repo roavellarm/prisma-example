@@ -1,0 +1,6 @@
+# Prisma Migrate lockfile v1
+
+20201005005439
+20201005010702-create-posts
+20201005013922-add-published-to-post
+20201005025656-add-created-at-to-post
